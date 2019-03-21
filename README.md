@@ -1,2 +1,2 @@
-# advancedGitToolsExercise
-Advanced Git Tools Exercises
+# Advanced Git Tools Exercise
+Testing GitReReRe and Git Bisect
